@@ -1,0 +1,14 @@
+{
+  "name": "sauce",
+  "version": "6.6.6",
+  "description": "Lets get saucy",
+  "main": "index.js",
+  "scripts": {
+    "serve": "eleventy --serve"
+  },
+  "author": "Gaya Kessler",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}
