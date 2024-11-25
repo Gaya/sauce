@@ -9,7 +9,7 @@ I've made a little tool with which you can design your own [19"](https://en.wiki
 After picking a size and placing parts you want to cut out you can download a .DXF format file to
 send to you favourite laser cutting company, so they can turn it into an actual plate for you.
 
-[Try the DIY Plate Designer here.](https://wreckeys.com/designer) 
+[Try the DIY Plate Designer here.](https://wreckeys-plate-designer.netlify.app/) 
 
 ![Screenshot of the DIY plate designer](diy-plate-designer/plate-designer.webp)
 
@@ -31,7 +31,7 @@ After you're done you can download a DXF file which can be used to send to laser
 
 ## Open Source
 
-Of course, it's open source. [Take a peek](https://github.com/Gaya/wreckeys-site/tree/main/src).
+Of course, it's open source. [Take a peek](https://github.com/Gaya/wreckeys-plate-designer).
 
 ## What components does it have?
 
