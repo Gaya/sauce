@@ -1,0 +1,24 @@
+<header class="container">
+    <% if (is_home()) { %>
+        <h1 class="header-home">
+    <% } %>
+        <a href="/">
+            <img src="/images/sauce-logo.svg" width=230 height=180 alt="Sauce" title="Sauce" />
+        </a>
+    <% if (is_home()) { %>
+        </h1>
+    <% } %>
+</header>
+<nav>
+    <ul class="container">
+        <li>
+            <a href="/#about">About</a>
+        </li>
+        <li>
+            <a href="/#blog">Blog</a>
+        </li>
+        <li>
+            <a href="/#contact">Contact</a>
+        </li>
+    </ul>
+</nav>
