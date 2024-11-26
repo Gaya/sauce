@@ -8,7 +8,7 @@ var title = page.title ? `${page.title} - ${config.title}` : config.title;
 %>
 <title><%= title %></title>
 <% if (is_home()) { %>
-  <meta name="description" content="I create custom-made MIDI controllers which can be mounted in 19 inch racks or Eurorack" />
+  <meta name="description" content="All of the random things Gaya Kessler does" />
 <% } else if (page.description) { %>
   <meta name="description" content="<%= page.description %>" />
 <% } %>
@@ -27,7 +27,7 @@ var title = page.title ? `${page.title} - ${config.title}` : config.title;
 
 <meta property="og:title" content="<%= title %>"/>
 <% if (is_home()) { %>
-  <meta property="og:description" content="I create custom-made MIDI controllers which can be mounted in 19 inch racks or Eurorack" />
+  <meta property="og:description" content="All of the random things Gaya Kessler does" />
 <% } else if (page.description) { %>
   <meta property="og:description" content="<%= page.description %>" />
 <% } %>
