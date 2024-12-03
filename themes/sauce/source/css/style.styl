@@ -5,3 +5,20 @@
 @import '_contact';
 @import '_post';
 @import '_code';
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --main: #c03319;
+    --secondary: #a4c5ab;
+    --bg: #181818;
+    --text: #ffffff;
+  }
+
+  footer, button {
+    color: var(--text);
+  }
+
+  input, textarea {
+    background: transparent;
+  }
+}
