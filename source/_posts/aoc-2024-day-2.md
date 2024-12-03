@@ -1,7 +1,7 @@
 ---
 title: Advent of Code 2024 - Day 2
 date: 2024-12-03 13:00:00
-description: Dissecting day two of Advent of Code day 2 in TypeScript
+description: Dissecting day two of Advent of Code 2024 in TypeScript
 tags:
 ---
 The solution for this day got some post completion refactors in order to improve the readability and make code a bit quicker.
