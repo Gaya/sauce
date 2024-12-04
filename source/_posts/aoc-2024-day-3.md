@@ -1,6 +1,6 @@
 ---
 title: Advent of Code 2024 - Day 3
-date: 2024-12-03 63:00:00
+date: 2024-12-03 16:00:00
 description: RegExp day!
 tags:
 ---
