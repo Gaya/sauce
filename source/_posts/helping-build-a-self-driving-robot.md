@@ -2,6 +2,7 @@
 title: Helping to Build a Self-Driving Robot
 date: 2025-02-25 09:30:00
 description: I helped a kid build a self-driving robot at my volunteering job
+poster: og-wall-b.jpg
 tags:
 ---
 
