@@ -35,15 +35,15 @@ var title = page.title ? `${page.title} - ${config.title}` : config.title;
 <meta property="og:site_name" content="<%= config.title %>" />
 <meta property="og:locale" content="en" />
 <meta property="og:type" content="website" />
-<% if (page.poster) { %>
-  <meta property="og:image" content="<%= url.replace('index.html', '') %><%= page.poster %>" />
+<% if (is_post()) { %>
+  <meta property="og:image" content="<%= url.replace('index.html', '') %>og-poster.jpg" />
 <% } else { %>
   <meta property="og:image" content="<%= config.url %>/images/og-poster.jpg" />
 <% } %>
 
 <meta name="twitter:card" content="summary_large_image" />
-<% if (page.poster) { %>
-  <meta name="twitter:image" content="<%= url.replace('index.html', '') %><%= page.poster %>" />
+<% if (is_post()) { %>
+  <meta name="twitter:image" content="<%= url.replace('index.html', '') %>og-poster.jpg" />
 <% } else { %>
   <meta name="twitter:image" content="<%= config.url %>/images/og-poster.jpg" />
 <% } %>
