@@ -105,3 +105,7 @@ theme: sauce
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# Skaper
+skaper:
+  logo: themes/sauce/source/images/sauce-og-logo.svg
