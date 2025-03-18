@@ -50,6 +50,12 @@ The hum started at the second I connected the HDMI cable to the laptop. Might it
 
 Back to searching possible problems. And some of you might already have spotted something I could improve.
 
+## External power supply for Focusrite Scarlett 4i4
+
+Provided with the Focusrite Scarlett 4i4 is an external power supply. You can connect it apart from the data input to provide "clean" power.
+
+This lifted a little bit of the noise, but certainly not enough. Maybe it solved just the ground hum and not the "other" hum. At least it improved a little bit.
+
 ## Balanced VS Unbalanced cables
 
 When using music gear you'll be collecting a lot of cables to wire everything together. There are two types of cables used for connecting Yamaha HS5 speakers: balanced and unbalanced.
