@@ -104,3 +104,9 @@ So if you ever find yourself in a hum situation try the following:
 - Use different USB-C ports for devices you want to isolate.
 
 Hope this story might bring you some insight.
+
+## UPDATE: This video might help too!
+
+The day after I posted this, **loopop** published a video on YouTube detailing many ways how to get rid of hums. It's great! 
+
+{% youtube 3asGhHUVO0o %}
