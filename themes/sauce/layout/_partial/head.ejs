@@ -34,10 +34,12 @@ var title = page.title ? `${page.title} - ${config.title}` : config.title;
 <meta property="og:url" content="<%= config.url %>/<%= page.canonical_path.replace('index.html', '') %>" />
 <meta property="og:site_name" content="<%= config.title %>" />
 <meta property="og:locale" content="en" />
-<meta property="og:type" content="website" />
+<meta name="author" content="Gaya Kessler">
 <% if (is_post()) { %>
+  <meta property="og:type" content="article" />
   <meta property="og:image" content="<%= url.replace('index.html', '') %>og-poster.jpg" />
 <% } else { %>
+  <meta property="og:type" content="website" />
   <meta property="og:image" content="<%= config.url %>/images/og-poster.jpg" />
 <% } %>
 

@@ -1,7 +1,7 @@
 ---
 title: From Idea to App in a Week - Meet Chord Mage!
 date: 2025-04-08 10:00:00
-description: A short story of how I built a fully functional mobile app in a week
+description: A practical guide to building and launching a web app in just one week. Covers idea validation, rapid development, scope management, and learning from real user feedback.
 tags:
 ---
 
