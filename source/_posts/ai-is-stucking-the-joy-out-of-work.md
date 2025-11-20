@@ -74,6 +74,10 @@ The nasty side effect is that that work now ends up on the plate of the people t
 
 We're left looking at a huge pile of code which no-one can explain or take responsibility of. _This will become your responsibility_.
 
+The people generating things feel great about being able to produce stuff. The people left to fix that stuff feel left devalued and frustrated. I have yet to meet someone who actually liked cleaning up after AI.
+
+Remember when we were all complaining about out-sourced, cheaply made, crap code? It's the same all over, but much quicker.
+
 All the things I love about programming are being taken away and replaced by a prediction model.
 
 What is left is just the part of programming I started to hate.
@@ -87,6 +91,22 @@ We as humans have a tendency to do this. Make something more efficient? We'll ju
 Generative AI is a perfect example of this. And the companies behind the chatbots are the ones benefitting the most of this.
 
 (Not to mention that the code that inspired the generative AI models is based of free to use, human crafted, open-source work)
+
+(Oh, and also the resources LLMs require in order to be used)
+
+## Un-humanification
+
+It doesn't really matter where you look online. More and more things are (sadly) being replaced by AI slop.
+
+People I used to enjoy reading articles of, start sharing things which are very clearly written by AI.
+
+More and more artwork is being replaced by AI generated overly shining stuff.
+
+There are even music groups dominating music stream services.
+
+And we seem to all consume it like it's the greatest thing ever.
+
+We are taking away the human connection to the things we do. And it's happening at a really high rate.
 
 ## Understanding my position in all this
 
