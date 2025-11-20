@@ -1,7 +1,7 @@
 ---
 title: Generative AI is Sucking the Joy Out of Work
 date: 2025-11-20 09:00:00
-description: My growing frustration with how generative AI is changing development and how it's making me dislike development even more.
+description: My growing frustration with how generative AI is changing development and how it's making me dislike development
 tags:
 ---
 It's a bit of a negative title, and I don't really like writing about negative subjects, but I really had to write this down.
@@ -18,7 +18,7 @@ It always felt great solving another problem, structuring the data, making it al
 
 I still get this feeling when I am working on subjects and problems I've not solved before. Though in "actual" work, this is rarely the case anymore.
 
-## Why I stared disliking programming
+## Why I started disliking programming
 
 On the other side of the coin there is "just work". Tasks that need to be done, problems you've solved a million times before, but just in a different context.
 
