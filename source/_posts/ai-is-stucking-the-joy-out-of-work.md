@@ -108,6 +108,29 @@ And we seem to all consume it like it's the greatest thing ever.
 
 We are taking away the human connection to the things we do. And it's happening at a really high rate.
 
+## Depending on it
+
+If the latest big outages on "the cloud" should teach us something is that we need to prevent being dependent on these types of technological advancements.
+
+[The Cloudflare outage](https://www.cloudflarestatus.com/incidents/8gmgl950y3h7) earlier this week showed a weakness in our way of work. A lot of websites and web-services run through this service and were unavailable.
+
+This meant a lot of chatbots and vibe coding services were down too.
+
+The same can happen to providers of LLMs and chatbots. Do you want to be dependent on just one party to solve your issues? What will happen if they hike up the pricing once they have reeled in enough users?
+
+It might not be a problem only related to AI, but vendor lock-in and outsourcing the knowledge of your applications might bite you in the ass.
+
+## Old man yelling at cloud
+
+I understand that this may feel like an old man complaining about the current state of the world. And maybe it is partly that. I probably had the same kind of people yelling at me for what I was doing when I started programming.
+
+But I can't shake the feeling there is something that needs to change here.
+
+I want AI to help me program more and solve the parts I don't want to do. Not the other way around.
+
+Saw a comic post not too long ago that said: "I want AI to clean my toilet, so I can do art. Not do art, so I can clean my toilet."
+I do not remember where I saw it, but it really stuck with me.
+
 ## Understanding my position in all this
 
 I believe that there will always be a place for my skills and knowledge in this world. And I believe that I will not fully be replaced by AI.
