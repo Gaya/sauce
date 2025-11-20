@@ -1,7 +1,7 @@
 ---
 title: Generative AI is Sucking the Joy Out of Work
 date: 2025-11-20 09:00:00
-description: My growing frustration with how generative AI is changing development. Speeding up production while eroding the craft that drew me to programming.
+description: My growing frustration with how generative AI is changing development and how it's making me dislike development even more.
 tags:
 ---
 It's a bit of a negative title, and I don't really like writing about negative subjects, but I really had to write this down.
