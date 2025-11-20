@@ -108,6 +108,8 @@ And we seem to all consume it like it's the greatest thing ever.
 
 We are taking away the human connection to the things we do. And it's happening at a really high rate.
 
+When I notice something is written or made by AI I immediately loose interrest. You might agree with what the AI has written, but I want to hear YOU say it. I want to see YOU come up with art. I want to hear YOU make the music and all its imperfections.
+
 ## Depending on it
 
 If the latest big outages on "the cloud" should teach us something is that we need to prevent being dependent on these types of technological advancements.
