@@ -1,5 +1,5 @@
 ---
-title: I Rebuilt Chord Mage. Again. But Now It’s a Web Application
+title: I Rebuilt Chord Mage. Again. But Now It's a Web Application
 date: 2026-01-14 16:00:00
 description: Why I rebuilt Chord Mage and what makes this version more open.
 tags:
