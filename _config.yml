@@ -109,3 +109,20 @@ deploy:
 # Skaper
 skaper:
   logo: themes/sauce/source/images/sauce-og-logo.svg
+
+feed:
+  enable: true
+  type:
+    - atom
+    - rss2
+  path:
+    - atom.xml
+    - rss2.xml
+  limit:
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  icon: favicon/favicon.png
+  autodiscovery: true

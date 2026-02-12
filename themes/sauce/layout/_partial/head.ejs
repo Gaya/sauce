@@ -53,3 +53,6 @@ var title = page.title ? `${page.title} - ${config.title}` : config.title;
 <%- css('css/style.css') %>
 
 <%- autoCanonical(config, page) %>
+
+<link rel="alternate" type="application/atom+xml" href="<%= config.url %>/atom.xml">
+<link rel="alternate" type="application/rss+xml" href="<%= config.url %>/rss2.xml">
