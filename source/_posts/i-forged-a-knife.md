@@ -1,7 +1,7 @@
 ---
 title: I Forged a Knife
 date: 2026-09-04 12:00:00
-description: I made a web app which can generate skin packs based on PNGs for Minecraft Bedrock players that are compatible with "The Hive"
+description: I forged my own kitchen knife from steel, learning the craft from fire and hammer to a finished blade.
 tags:
 ---
 
